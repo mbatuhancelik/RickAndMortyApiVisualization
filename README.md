@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Semi-visualization of https://rickandmortyapi.com/api/
