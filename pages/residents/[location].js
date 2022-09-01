@@ -75,7 +75,7 @@ function getStatusIndicator(status){
   )
  }else{
   return(
-    <Chip label={status} color="secondary" variant="outlined" />
+    <Chip label="Unknown" color="warning" variant="outlined" />
   )
  }
 }
