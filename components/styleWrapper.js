@@ -10,6 +10,9 @@ const darkTheme = createTheme({
 
 
 class Wrapper extends Component{
+    componentDidMount(){
+        document.title = "RickAndMortySite"
+      }
     render(){
         return (
         <ThemeProvider theme={darkTheme}>
